@@ -1,0 +1,7 @@
+# Crear un entorno virtual y luego instalar los siguientes paquetes:
+
+pip install opencv-python
+pip install mediapipe
+pip install opencv-contrib-python
+
+# ignorado el video
